@@ -1,0 +1,15 @@
+<poll  gateway_id="A8F7E0128EDE">
+    <admin active="false">(20)Add Device: (8)Command has completed successfully.</admin>
+    <node id="36">
+		<groups cnt="2">
+		    <group ind="1" max="5" label="Lifeline" profile="0000">1</group>
+		    <group ind="2" max="5" label="Group 2" profile="0000"></group>
+		</groups>
+		<value genre="basic" type="byte" instance="1" index="0" label="Basic" units="" readonly="false" polled="false" max="255" min="0">0</value>
+		<value genre="config" type="byte" instance="1" index="2" label="Temperature Sensitivity" units="0.1Â°C" readonly="false" max="50" min="1">10</value>
+		<value genre="user" type="decimal" instance="1" index="1" label="Temperature" units="C" readonly="true" polled="false">27.88</value>
+		<value genre="user" type="decimal" instance="1" index="3" label="Luminance" units="%" readonly="true" polled="false">100.00</value>
+		<value genre="user" type="decimal" instance="1" index="5" label="Relative Humidity" units="%" readonly="true" polled="false">48.49</value>
+    </node>
+</poll>
+

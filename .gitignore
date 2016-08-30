@@ -1,0 +1,7 @@
+logs/
+__pycache__/
+.idea/
+*.pyc
+migrations/
+db.sqlite3
+

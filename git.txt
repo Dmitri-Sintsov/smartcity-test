@@ -1,0 +1,10 @@
+git checkout -b my_branch
+git add file1.py
+git commit -am "Commit 1"
+git add file2.py
+git commit -am "Commit 2"
+git reset --hard HEAD~1
+git checkout master
+git merge my_branch
+
+

@@ -1,2 +1,0 @@
-# smartcity-test
-smartcity test
